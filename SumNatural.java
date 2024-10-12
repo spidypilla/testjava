@@ -3,6 +3,7 @@ public class SumNatural {
     public static void main(String[] args) {
 
         int num = 100, sum = 0;
+        int num1 = 10, sum = 1;
 
         for(int i = 1; i <= num; ++i)
         {
