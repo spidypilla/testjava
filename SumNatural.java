@@ -4,7 +4,7 @@ public class SumNatural {
 
         int num = 100, sum = 0;
         int num1 = 10, sum = 1;
-
+this is sunny doing the git push
         for(int i = 1; i <= num; ++i)
         {
             // sum = sum + i;
